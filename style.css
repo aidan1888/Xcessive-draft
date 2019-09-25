@@ -5,12 +5,12 @@
   
   /* Style the header */
   header {
-    background-color: rgb(195, 0, 255);
+    background-color: rgb(6, 31, 255);
     padding: 30px;
     text-align: center;
     font-size: 50px;
-    color: rgb(223, 220, 70);
-    text-emphasis-color: rgb(223, 220, 70)
+    color: rgb(247, 0, 0);
+    text-emphasis-color: rgb(253, 0, 0)
   }
   
   /* Container for flexboxes */
@@ -24,7 +24,7 @@
     -webkit-flex: 2;
     -ms-flex: 2;
     flex: 2;
-    background: rgb(195, 0, 255);
+    background: rgb(6, 31, 255);
     padding: 40px;
   }
   
@@ -45,7 +45,7 @@
   
   /* Style the footer */
   footer {
-    background-color: rgb(195, 0, 255);
+    background-color: rgb(6, 31, 255);
     padding: 3px;
     text-align: left;
     color: white;
